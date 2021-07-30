@@ -1,5 +1,12 @@
 # Hit-The-Mole-game
-This a mobile game , in which we need to tap on the Mole(hit) within a given time frame .
+This a mobile game , in which we need to tap on the Mole(hit) within a given time frame . 
+
+100 points is awarded for hitting every mole.
+
+You lose 50 points when you hit on empty hole. (1 miss= -50 points)
+
+For every 3 misses (-150) 1 heart(life) will be deducted.
+
 
 ##  The files in this folder contain everything you need to run your app:
 
